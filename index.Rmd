@@ -1,0 +1,30 @@
+---
+title: "Kyle Lambert"
+image: "headshot-informal.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Github
+    url: "https://github.com/KJLambert"
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/kyle-lambert-9879848b/"
+  - label: Substack
+    url: "https://sandman110.substack.com/"
+  - label: Medium
+    url: "https://medium.com/@klmbrt88"
+  - label: Email
+    url: "klmbrt88@gmail.com"
+  - label: Buy me a coffee
+    url: "https://venmo.com/u/itsKyle-Lambert"
+output:
+  postcards::onofre
+---
+ 
+Kyle Lambert is a bioinformatics and data science professional with 10 years of experience using genomics to solve real-world problems in biotech and agriculture. I've led cross-functional efforts, from building web platforms for microbial screening to architecting cloud-based pipelines that annotated over 200,000 genomes - resulting in faster data delivery, smarter R&D decisions, and new customer programs.
+
+Over the years, I’ve developed and deployed scalable solutions using tools like AWS, Nextflow, Python, and SQL. I’ve also acted as a bridge between technical teams, scientists, and business stakeholders. Advising cross-functional teams on genomics capabilities, translating requirements into engineering roadmaps, or leading training to increase adoption of new tools.
+
+I am driven by the opportunity to work at the intersection of science, software, and people. I strive to be a multiplier on teams, bringing an optimistic, growth mindset. I can support teams by applying problem-solving and coaching to genomics challenges, complex technical issues, or building infrastructure that enables insight generation or model development.
+
+I'm now exploring opportunities to support innovation at the next generation of biotech companies.
