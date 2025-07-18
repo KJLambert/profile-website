@@ -1,7 +1,7 @@
 # Personal website hosted by GH pages
 
 Update html using 
-'''rmarkdown::render("index.Rmd")'''
+"""rmarkdown::render("index.Rmd")"""
 
 Also remember that if you re-render the html - update the medium tag.
 <a href="https://medium.com/@klmbrt88">
