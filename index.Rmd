@@ -1,6 +1,6 @@
 ---
 title: "Kyle Lambert"
-image: "headshot-informal.jpg"
+image: "headshot-kc.JPG"
 color1: "#231DC4"
 color2: "#59CB2C"
 angle: 145
